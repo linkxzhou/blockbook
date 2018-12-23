@@ -188,18 +188,6 @@
   revision = "214b6b7bc0f06812ab5602fdc502a3e619916f38"
 
 [[projects]]
-  branch = "master"
-  name = "golang.org/x/crypto"
-  packages = ["ripemd160"]
-  revision = "d6449816ce06963d9d136eee5a56fca5b0616e7e"
-
-[[projects]]
-  branch = "master"
-  name = "golang.org/x/net"
-  packages = ["websocket"]
-  revision = "61147c48b25b599e5b561d2e9c4f3e1ef489ca41"
-
-[[projects]]
   branch = "v2"
   name = "gopkg.in/karalabe/cookiejar.v2"
   packages = ["collections/prque"]
